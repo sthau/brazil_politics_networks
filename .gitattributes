@@ -1,0 +1,4 @@
+data/bills.csv filter=lfs diff=lfs merge=lfs -text
+data/party_lines.csv filter=lfs diff=lfs merge=lfs -text
+data/reps.csv filter=lfs diff=lfs merge=lfs -text
+data/sessions.csv filter=lfs diff=lfs merge=lfs -text
